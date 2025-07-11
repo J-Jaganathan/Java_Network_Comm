@@ -21,7 +21,7 @@ class Client extends JFrame implements Escape,WindowListener{
     { 
      try{
         System.out.println("Waiting for connection");
-        socket = new Socket("192.168.7.131",7897);
+        socket = new Socket("xxx.xxx.xxx.xxx",xxxx);
         System.out.println("Connection is done");
         br = new BufferedReader(new InputStreamReader(socket.getInputStream()));
         ot = new PrintWriter(socket.getOutputStream());

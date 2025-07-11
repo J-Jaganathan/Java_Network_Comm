@@ -9,7 +9,7 @@ class Server
     public Server()
     {
         try{
-            server = new ServerSocket(7897);
+            server = new ServerSocket(xxxx);
             System.out.println("The server is ready");
             System.out.println("Waiting for connection....");
             socket=server.accept();
