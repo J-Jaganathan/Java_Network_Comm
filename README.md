@@ -4,7 +4,7 @@ A simple real-time **Client-Server Chat System** built using pure **Java Socket 
 
 This project was developed during my 4th semester to deepen my understanding of how real-time communication works over TCP/IP.
 
-I have hidden Port number and IP Address with xxxxx.. So, Use IP Address of your Internet in xxx.xxx.xxx.xxx and use any port from 1024 to 9000 in xxxx value.
+I have hidden Port number and IP Address with xxxxx.. So, Use IP Address of your Internet in xxx.xxx.xxx.xxx and use any port from 1024 to 9000 in the xxxx value. Remember to maintain the same internet connection when using both Java Programs
 
 ---
 
